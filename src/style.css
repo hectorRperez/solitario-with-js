@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(30, 83, 30);
+}
+
+.jugador {
+  height: 350px;
+}
+
+.jugador h3 {
+  color: white !important;
+  font-size: 40px;
+}
+
+.jugador img {
+  position: relative;
+  left: 45px;
+  width: 150px;
+  margin-left: -45px;
+}
